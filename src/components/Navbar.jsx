@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../assets/images/logo.png';
+import logo from '../assets/images/logo_trial-removebg-preview.png';
 import { NavLink } from 'react-router-dom';
 
 const Navbar = () => {
@@ -23,7 +23,7 @@ const linkClass = ({ isActive }) => isActive ? 'bg-black text-white hover:bg-gra
                 alt="React Jobs"
               />
               <span className="hidden md:block text-white text-2xl font-bold ml-2"
-                >React Jobs</span
+                >Bunting Jobs</span
               >
             </NavLink>
             <div className="md:ml-auto">
