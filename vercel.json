@@ -1,5 +1,5 @@
 {
     "rewrites": [
-      { "source": "/api/(.*)", "destination": "https://react-project-ggqll9vpf-adambs-projects-285d41dd.vercel.app/api/$1" }
+      { "source": "/api/(.*)", "destination": "https://react-project-amgr.onrender.com/$1" }
     ]
   }
